@@ -1,4 +1,3 @@
-/env
 while True:
     import requests
     from bs4 import BeautifulSoup
